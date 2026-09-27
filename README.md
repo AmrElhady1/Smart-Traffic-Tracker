@@ -37,8 +37,8 @@ A real-time computer vision pipeline for traffic analysis and vehicle counting. 
 1. Clone the repository:
 ```bash
 
-git clone https://github.com/AmrElhady1/traffic-analyzer.git
-cd traffic-analyzer
+git clone https://github.com/AmrElhady1/Smart-Traffic-Tracker.git
+cd Smart-Traffic-Tracker
 
 ```
                      
